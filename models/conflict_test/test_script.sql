@@ -3,4 +3,5 @@ hello
 testar conflict
 
 
-conflict branch B
+
+första conflict branch
